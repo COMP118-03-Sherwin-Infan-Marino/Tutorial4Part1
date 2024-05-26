@@ -11,6 +11,7 @@
 #include<cstdlib>
 #include<ctime>
 #include<cassert>
+#include "Shapes.h"
 using namespace std;
 
 void drawHorizontalLine(const int length, const char ch);
